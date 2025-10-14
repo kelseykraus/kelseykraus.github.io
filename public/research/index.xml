@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Kelsey Kraus</title>
+    <link>http://localhost:1313/research/index.html</link>
+      <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_ba44af7d505ba786.png</url>
+      <title>Research</title>
+      <link>http://localhost:1313/research/index.html</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/research/evaluation.html</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/evaluation.html</guid>
+      <description>&lt;h2 id=&#34;human-in-the-loop-ai-evaluation&#34;&gt;Human-In-The-Loop AI Evaluation&lt;/h2&gt;
+&lt;p&gt;Recently, my research has focused on how to integrate human feedback into training and evaluating large language models, with a focus on improving performance and ensuring alignment with user preferences in real-world contexts. This work demonstrates the limitations of automated metrics in capturing nuance, especially in sensitive tasks like summarization or toxicity detection, and proposes human-centered methodologies that prioritize meaningful evaluation and data curation.&lt;br&gt;&lt;br&gt;A few recent papers and defensive publications can be found here:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/research/evaluation_a.html</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/evaluation_a.html</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2025: &lt;a href=&#34;https://arxiv.org/abs/2503.04910&#34;&gt;Maximizing Signal in Human-Model Preference Alignment.&lt;/a&gt; &lt;em&gt;Joint work with Margaret Kroll&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;2024: &lt;a href=&#34;https://arxiv.org/abs/2410.18218&#34;&gt;Optimizing the role of human evaluation in LLM-based spoken document summarization systems.&lt;/a&gt; &lt;em&gt;Joint work with Margaret Kroll&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;2024: &lt;a href=&#34;https://www.tdcommons.org/cgi/viewcontent.cgi?article=8197&amp;context=dpubs_series&#34;&gt;Lightweight Retrieval Augmented Generation (RAG) Evaluation Pipeline.&lt;/a&gt; &lt;em&gt;Joint work with Margaret Kroll&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/research/prosody.html</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/prosody.html</guid>
+      <description>&lt;h2 id=&#34;pragmatics--prosody&#34;&gt;Pragmatics &amp;amp; Prosody&lt;/h2&gt;
+&lt;p&gt;I also work on exploring the connections between formal semantics, pragmatics, and prosody, with a focus on how intonation and discourse particles influence speech acts in empirically grounded ways. A central theme is understanding how these elements, especially in expressions of surprise, function to modify the speech act itself across different languages.&lt;br&gt;&lt;br&gt;You can find some of this work here:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/research/prosody_a.html</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/prosody_a.html</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2019: &lt;a href=&#34;https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/596&#34;&gt;Intonation and Expectation: English mirative contours and particles.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2018: &lt;a href=&#34;https://escholarship.org/uc/item/9sz4k1rm&#34;&gt;Great Intonations.&lt;/a&gt; &lt;em&gt;Dissertation&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

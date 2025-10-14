@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Kelsey Kraus</title>
+    <link>http://localhost:1313/teaching/index.html</link>
+      <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_ba44af7d505ba786.png</url>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/index.html</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/current.html</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/current.html</guid>
+      <description>&lt;h2 id=&#34;spring-2026-courses&#34;&gt;Spring 2026 Courses&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Course&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Meet&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Time&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 101: Introduction to Linguistics&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Tues &amp;amp; Thurs&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;13:30 - 14:45&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 115: Corpus Linguistics&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Mon &amp;amp; Weds&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;10:30 - 11:45&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 220: Computational Linguistics 1&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Tues &amp;amp; Thurs&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;12:00 - 13:15&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/past.html</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/past.html</guid>
+      <description>&lt;h2 id=&#34;past-courses&#34;&gt;Past courses&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Instructor of Record&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 80 K: Invented Languages&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;UC Santa Cruz&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Spring 2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;NLP 270: Linguistic Models of Syntax &amp;amp; Semantics&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;UC Santa Cruz&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Winter 2023, co-taught with Margaret Kroll&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 144: Computational Methods for Linguists&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;UC Santa Cruz&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Winter 2022&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Teaching Assistant, UC Santa Cruz&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 80K: Invented Languages&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Spring 2020&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Instructor: Pranav Anand&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 80K: Invented Languages&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Spring 2019&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Instructor: Pranav Anand&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 80C: Language, Society, &amp;amp; Culture&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Spring 2018&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Instructor: Jim McCloskey&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 240: Pedagogy of Linguistics&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Winter 2016&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Supervisor: Pranav Anand&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 240: Pedagogy of Linguistics&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Fall 2015&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Supervisor: Pranav Anand&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 113: Syntax II&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Spring 2015&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Instructor: Jim McCloskey&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 108: Poetry &amp;amp; Language&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Winter 2015&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Instructor: Sandy Chung&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 50: Semantics I&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Fall 2014&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Instructor: Donka Farkas&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 80C: Language, Society, &amp;amp; Culture&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Spring 2014&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Instructor: Jim McCloskey&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ling 112: Syntax I&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;Spring 2012&lt;/td&gt;
+          &lt;td&gt;    &lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Instructor: Sandy Chung &amp;amp; Matt Wagers&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

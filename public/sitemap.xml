@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  
+  <url>
+    <loc>http://localhost:1313/research/evaluation.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/research/evaluation_a.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/research/prosody.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/research/prosody_a.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/teaching/current.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/index.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/research/index.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/teaching/index.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/teaching/past.html</loc><lastmod>2025-10-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/categories/index.html</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/publication_types/index.html</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/tags/index.html</loc><changefreq>weekly</changefreq></url></urlset>
