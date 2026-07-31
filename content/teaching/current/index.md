@@ -1,6 +1,6 @@
 ---
-date: 2025-10-13
-publishDate: 2025-10-13
+date: 2026-07-31
+publishDate: 2026-07-31
 external_link:
 image:
   caption:
@@ -10,12 +10,12 @@ summary:
 tags:
 title:
 ---
-## Spring 2026 Courses
+## Fall 2026 Courses
 
 
 
 | Course                                |	              | Meet         	|	               | Time          	|
 |---------------------------------------|---------------|--------------	|---------------|---------------	|
-| Ling 101: Introduction to Linguistics | &nbsp;  &nbsp; 	| Tues & Thurs 	| &nbsp;  &nbsp; | 13:30 - 14:45 	|
-| Ling 115: Corpus Linguistics          | &nbsp;  &nbsp;	| Mon & Weds   	| &nbsp;  &nbsp; 	| 10:30 - 11:45 	|
-| Ling 220: Computational Linguistics 1 |	&nbsp;  &nbsp;  | Tues & Thurs 	| &nbsp;  &nbsp; 	| 12:00 - 13:15 	|
+| Ling 26: Quant. Reasoning in Linguistic Diversity | &nbsp;  &nbsp; 	| Mon & Weds 	| &nbsp;  &nbsp; | 9:00 - 10:15 	|
+| Ling 115: Corpus Linguistics          | &nbsp;  &nbsp;	| Tues & Thurs   	| &nbsp;  &nbsp; 	| 10:30 - 11:45 	|
+| Ling 165: Introduction to Natural Language Processing |	&nbsp;  &nbsp;  | Tues & Thurs 	| &nbsp;  &nbsp; 	| 13:30 - 14:45 	|

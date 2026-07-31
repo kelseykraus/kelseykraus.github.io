@@ -12,11 +12,19 @@ title:
 ---
 ## Past courses
 
-| Instructor of Record                               	|   	|                 	|   	|                                            	|
-|----------------------------------------------------|---|-----------------	|---|--------------------------------------------	|
-| Ling 80 K: Invented Languages                      	|&nbsp;  &nbsp; 	   	| *UC Santa Cruz* 	| &nbsp;  &nbsp; 	  	| Spring 2023                                	|
-| NLP 270: Linguistic Models of Syntax & Semantics 	|&nbsp;  &nbsp; 	   	| *UC Santa Cruz* 	| &nbsp;  &nbsp; 	  	| Winter 2023, co-taught with Margaret Kroll 	|
-| Ling 144: Computational Methods for Linguists      	| &nbsp;  &nbsp; 	  	| *UC Santa Cruz* 	| &nbsp;  &nbsp; 	  	| Winter 2022                                	|
+| Instructor of Record, San Jose State  |      |             |
+|---------------------------------------|------|-------------|
+| Ling 101: Introduction to Linguistics | &nbsp;  &nbsp; &nbsp;  &nbsp;      | Spring 2026 |
+| Ling 115: Corpus Linguistics          |      | Spring 2026 |
+| Ling 220: Computational Linguistics 1 |      | Spring 2026 |
+
+
+
+| Instructor of Record, UC Santa Cruz              |      |                                            |
+|--------------------------------------------------|------|--------------------------------------------|
+| Ling 80 K: Invented Languages                    | &nbsp;  &nbsp; &nbsp;  &nbsp;      | Spring 2023                                |
+| NLP 270: Linguistic Models of Syntax & Semantics |      | Winter 2023, co-taught with Margaret Kroll |
+| Ling 144: Computational Methods for Linguists    |      | Winter 2022                                |                            	|
 
 
 | Teaching Assistant, UC Santa Cruz      	|      	|             	|      	|                                         	|

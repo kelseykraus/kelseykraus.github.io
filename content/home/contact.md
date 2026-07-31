@@ -17,7 +17,7 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   # Contact details (edit or remove options as required)
-  email: kelseykraus@gmail.com
+  email: kelsey.kraus@sjsu.edu
 
 design:
   columns: '2'

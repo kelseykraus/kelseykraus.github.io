@@ -4,6 +4,12 @@
   
   
   <url>
+    <loc>http://localhost:1313/teaching/current.html</loc><lastmod>2026-07-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/index.html</loc><lastmod>2026-07-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/teaching/index.html</loc><lastmod>2026-07-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://localhost:1313/research/evaluation.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/research/evaluation_a.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -12,13 +18,7 @@
   <url>
     <loc>http://localhost:1313/research/prosody_a.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/teaching/current.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/index.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>http://localhost:1313/research/index.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/teaching/index.html</loc><lastmod>2025-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/teaching/past.html</loc><lastmod>2025-10-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
