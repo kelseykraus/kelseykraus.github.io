@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:kelseykraus@gmail.com
+    link: mailto:kelsey.kraus@sjsu.edu
 #   - icon: github
 #     icon_pack: fab
 #     link:
